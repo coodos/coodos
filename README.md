@@ -49,6 +49,10 @@ main :: func(): void {
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
+        <span>Unity</span><br><br><br>
+        <img height="64px" src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab-square-black.png">
+      </td>
+      <td width="25%" align="center">
         <span>Git</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
