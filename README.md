@@ -76,7 +76,8 @@ Founder, Coodos
 
 ## [Lifeline](https://lifeline-codehack.herokuapp.com/)
 > credits to [Sahil](https://github.com/sahil2004/) for Help with frontend and [Danish](https://github.com/danishsinghsethi/) for help with UI/UX
-<br>A mental health support platform made for people to talk and relieve stress
+
+A mental health support platform made for people to talk and relieve stress
 
 ## [Cookbook Magic](https://cookbookmagic.herokuapp.com/)
 A platform where users can dynamically generate recipe E-Books
