@@ -75,17 +75,17 @@ Founder, Coodos
 
 ## [Lifeline](https://lifeline-codehack.herokuapp.com/)
 > credits to [Sahil](https://github.com/sahil2004/) for Help with frontend and [Danish](https://github.com/danishsinghsethi/) for help with UI/UX <br>
-> My Role : Team Leader and Full Stack Developer [I did the whole backend and some of the Frontend]
+> My Role : Team Leader and Full Stack Developer [ I did the whole backend and some of the Frontend ]
 
 A mental health support platform made for people to talk and relieve stress
 
 ## [Cookbook Magic](https://cookbookmagic.herokuapp.com/)
-> My Role : Full Stack Developer [I worked on this all by myself]
+> My Role : Full Stack Developer [ I worked on this all by myself ]
 
 A platform where users can dynamically generate recipe E-Books
 
 ## [Sabre](https://sabre-beta.herokuapp.com/)
-> My Role : Full Stack Developer [I worked on this all by myself]
+> My Role : Full Stack Developer [ I worked on this all by myself ]
 
 A chat and streaming platform for gamers. Features include near real time streaming with 0 lag
 
