@@ -69,8 +69,6 @@ I am Merul, I had started my coding journey with game development in Unity 4 yea
 
 Founder, Coodos
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=munific&show_icons=true&hide_border=true)
-
 ## Show your appreciation by Starring My Repos!
 
 reach to me at info@coodos.co
