@@ -55,7 +55,7 @@ main :: func(): void {
         <img height="64px" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png">
       </td>
       <td width="25%" align="center">
-        <span>Visual Studtio Code</span><br><br><br>
+        <span>VS Code</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
