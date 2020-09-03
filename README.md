@@ -39,7 +39,7 @@ main :: func(): void {
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>C++</span><br><br><br>
+        <span>C++</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png">
       </td>
       <td width="25%" align="center">
