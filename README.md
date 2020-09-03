@@ -54,7 +54,7 @@ main :: func(): void {
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>Arch Linux</span><br><br><br>
+        <span>Arch</span><br><br><br>
         <img height="64px" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png">
       </td>
       <td width="25%" align="center">
