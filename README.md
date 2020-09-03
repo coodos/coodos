@@ -1,5 +1,10 @@
 # Hello, I'm Merul!
 
+I am a developer
+
+### Developer (/dɪˈvɛləpə/)
+An organism which converts caffeine to software.
+
 ```julia
 module main
 
