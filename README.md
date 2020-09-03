@@ -50,7 +50,7 @@ main :: func(): void {
     <tr valign="top">
       <td width="25%" align="center">
         <span>Unity</span><br><br><br>
-        <img height="64px" src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab-square-black.png">
+        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVdoW8IBQlOg0D78AlMDC2VSZOFWBkx78xmg&usqp=CAU">
       </td>
       <td width="25%" align="center">
         <span>Git</span><br><br><br>
