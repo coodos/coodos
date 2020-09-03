@@ -10,7 +10,6 @@ aboutMe :: struct {
   pronouns :: string[];
   languages :: string[];
   hobbies :: string[];
-  funFact :: string;
 }
 
 main :: func(): void {
