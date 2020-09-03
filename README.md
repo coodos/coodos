@@ -31,7 +31,7 @@ main :: func(): void {
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>JavaScript</span><br><br><br>
+        <span>**JavaScript**</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
       </td>
       <td width="25%" align="center">
@@ -39,7 +39,7 @@ main :: func(): void {
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>C++</span><br><br><br>
+        <span><strong>**C++**</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png">
       </td>
       <td width="25%" align="center">
@@ -75,6 +75,7 @@ Founder, Coodos
 
 ## [Lifeline](https://lifeline-codehack.herokuapp.com/)
 > credits to [Sahil](https://github.com/sahil2004/) for Help with frontend and [Danish](https://github.com/danishsinghsethi/) for help with UI/UX
+
 
 A mental health support platform made for people to talk and relieve stress
 
