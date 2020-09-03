@@ -74,9 +74,15 @@ Founder, Coodos
 
 # Some of my works
 
-https://sabre-beta.herokuapp.com/<br>
-https://cookbookmagic.herokuapp.com/<br>
-https://lifeline-codehack.herokuapp.com/<br>
+## [Lifeline](https://lifeline-codehack.herokuapp.com/)
+> credits to [Sahil](https://github.com/sahil2004/) for Help with frontend and [Danish](https://github.com/danishsinghsethi/) for help with UI/UX
+A mental health support platform made for people to talk and relieve stress
+
+## [Cookbook Magic](https://cookbookmagic.herokuapp.com/)
+A platform where users can dynamically generate recipe E-Books
+
+## [Sabre](https://sabre-beta.herokuapp.com/)
+A chat and streaming platform for gamers. Features include near real time streaming with 0 lag
 
 # GitHub Stats
 
