@@ -1,8 +1,7 @@
 # Hello, I'm Merul!
 
-##### Developer
-###### /dɪˈvɛləpə/
-An organism which converts caffeine to software.
+> ##### Developer | /dɪˈvɛləpə/
+> An organism which converts caffeine to software.
 
 ```julia
 module main
