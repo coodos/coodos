@@ -2,7 +2,8 @@
 
 I am a developer
 
-###### Developer (/dɪˈvɛləpə/)
+##### Developer
+###### /dɪˈvɛləpə/
 An organism which converts caffeine to software.
 
 ```julia
