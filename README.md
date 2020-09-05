@@ -102,7 +102,7 @@ A chat and streaming platform for gamers. Features include near real time stream
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=coodos&show_icons=true&hide_border=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coodos&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coodos&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Show your appreciation by Starring My Repos!
 
