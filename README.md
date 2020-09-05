@@ -100,7 +100,7 @@ A chat and streaming platform for gamers. Features include near real time stream
 
 # GitHub Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=coodos&show_icons=true&hide_border=true&theme=merko)
+![Github stats](https://github-readme-stats.vercel.app/api?username=coodos&show_icons=true&hide_border=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coodos)](https://github.com/anuraghazra/github-readme-stats)
 
