@@ -67,9 +67,11 @@ main :: func(): void {
 # About 
 Hi,
 
-I am Merul, I had started my coding journey with game development in Unity 4 years ago and it has been a hell of a ride! I am a full stack developer who specializes in Scripting and Desktop Application Development! I am one of the finalists of Google Code-in 2019 and I have won multiple coding contests hosted by big organisations! Coodos is my initiative to provide no-compromise tech products to you!
+I am Merul, I had started my coding journey with game development in Unity 4 years ago and it has been a hell of a ride! I am a full stack developer who specializes in Scripting and Desktop Application Development! 
 
-Founder, Coodos
+I am a contributor to [Liquid Galaxy]('www.liquidgalaxy.eu') and I have worked on several of their projects
+
+I am one of the finalists of Google Code-in 2019 and I have won multiple coding contests hosted by big organisations! Coodos is my initiative to provide no-compromise tech products to you!
 
 # Some of my works
 
@@ -84,10 +86,17 @@ A mental health support platform made for people to talk and relieve stress
 
 A platform where users can dynamically generate recipe E-Books
 
+## [Liquid Galaxy Accelerometer App]('https://github.com/coodos/liquidGalaxyAccelerometerCapture')
+> My Role : Made it all by myself
+
+Initially I was supposed to be refactoring an app from 2011 but I just ended up building it from the ground up :P
+
+
 ## [Sabre](https://sabre-beta.herokuapp.com/)
 > My Role : Full Stack Developer [ I worked on this all by myself ]
 
 A chat and streaming platform for gamers. Features include near real time streaming with 0 lag
+
 
 # GitHub Stats
 
