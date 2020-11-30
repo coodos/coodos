@@ -75,6 +75,11 @@ I am one of the finalists of Google Code-in 2019 and I have won multiple coding 
 
 # Some of my works
 
+## [Project OVA](https://github.com/coodos/openVoiceAssistant)
+> Made it in collaboration with [Soham Jaiswal](https://github.com/sohamjaiswal10) 
+
+Project Open Voice Assistant (OVA) is my most ambitious project yet! this project aims to be a replacement to all the corporate spying voice assistants that are there. this voice assistant is very reliable and the best part is that it does not steal one's data.
+
 ## [Lifeline](https://lifeline-codehack.herokuapp.com/)
 > credits to [Sahil](https://github.com/sahil2004/) for Help with frontend and [Danish](https://github.com/danishsinghsethi/) for help with UI/UX <br>
 > My Role : Team Leader and Full Stack Developer [ I did the whole backend and some of the Frontend ]
