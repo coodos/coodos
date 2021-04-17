@@ -91,6 +91,7 @@ Well it is pretty self-explanatory, I made the main website for Croply along wit
 
 ## [Project OVA](https://github.com/coodos/openVoiceAssistant)
 > Made it in collaboration with [Soham Jaiswal](https://github.com/sohamjaiswal10) 
+
 > My Role : Lead Developer
 
 Project Open Voice Assistant (OVA) is my most ambitious project yet! this project aims to be a replacement to all the corporate spying voice assistants that are there. this voice assistant is very reliable and the best part is that it does not steal one's data.
