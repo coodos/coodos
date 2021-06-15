@@ -113,15 +113,4 @@ A platform where users can dynamically generate recipe E-Books
 Initially I was supposed to be refactoring an app from 2011 but I just ended up building it from the ground up :P
 
 
-
-# GitHub Stats
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=coodos&show_icons=true&hide_border=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coodos&theme=dark&hide_border=true)](https://github.com/coodos)
-## Show your appreciation by Starring My Repos!
-
-<a href="https://www.buymeacoffee.com/coodos" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-
 reach to me at merul@coodos.co
