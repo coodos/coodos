@@ -57,8 +57,8 @@ main :: func(): void {
         <img height="64px" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png">
       </td>
       <td width="25%" align="center">
-        <span>VS Code</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span>Neovim</span><br><br><br>
+        <img height="64px" src="https://camo.githubusercontent.com/67d8d32acb9aa6ef50a036e831334c538cbdb5756d3d42b5bf378212c394c8c7/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f3231313236322f323233373936332f32336562643565342d396264332d313165332d393136342d3262386165646165393032302e706e67">
       </td>
     </tr>
   </tbody>
