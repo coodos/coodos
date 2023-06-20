@@ -28,6 +28,4 @@ main :: func(): void {
 
 # About 
 
-A learner, author, best selling course creator, passionate systems architect and an entreupreneur, Co Founder and CTO of @Quoal, @Tangle-Labs
-
-reach to me at merul@quoal.com
+A learner, author, best selling course creator, passionate systems architect and an entreupreneur, Director @Cybtekk-LLP and @Tangle-Labs
