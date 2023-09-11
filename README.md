@@ -28,4 +28,4 @@ main :: func(): void {
 
 # About 
 
-A learner, author, best selling course creator, passionate systems architect and an entreupreneur, Director @Cybtekk-LLP and @Tangle-Labs
+A learner, author, best selling course creator, passionate systems architect and an entreupreneur, Director @Tangle-Labs
