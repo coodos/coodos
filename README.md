@@ -28,4 +28,4 @@ main :: func(): void {
 
 # About 
 
-A learner, author, best selling course creator, passionate systems architect and an entreupreneur, techn person somehow stuck doing sales :/
+A learner, author, best selling course creator, passionate systems architect and an entreupreneur, tech person somehow stuck doing sales :\
