@@ -27,6 +27,15 @@ I am also a published standards and book author. Teaching and mentorship remain 
 
 ---
 
+### Career Timeline
+
+- **Co-Founder & CTO, AuvoDigital** (`Mar 2024 - Sep 2025`)
+- **Co-Founder & CTO, TangleLabs** (`Nov 2021 - Mar 2024`)
+- **Senior Software Developer, Croply** (`Mar 2020 - Oct 2021`)
+- **Freelance Software Developer** (`Feb 2018 - Mar 2020`)
+
+---
+
 ### Highlights
 
 - **CEO & Co-Founder of Ensombl**, building systems that verify and protect digital interactions
@@ -37,20 +46,23 @@ I am also a published standards and book author. Teaching and mentorship remain 
 
 ---
 
-### A tiny `aboutMe()` in code
+### Philosophy
 
-```ts
-const merul = {
-  role: "Leading Systems Architect",
-  company: "Ensombl",
-  title: "CEO & Co-Founder",
-  experience: "8 years",
-  focus: ["Architecture", "Distributed systems", "Platform thinking"],
-  impact: [
-    "Built Ensombl as the main operating focus",
-    "Published standards and authored books",
-    "150,000+ students taught",
-    "Products across multiple regions",
-  ],
-};
+> "One must imagine Sisyphus happy."
+>
+> I am a builder who believes meaning is created through consistent effort, craft, and long-horizon execution.
+
+```text
+           O
+          /|\
+          / \
+        __/ \__
+      _/       \_
+    _/  uphill   \_
+  _/   again      \_
+ /___________________\
 ```
+
+---
+
+
